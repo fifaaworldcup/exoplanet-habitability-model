@@ -1,4 +1,3 @@
-```markdown
 # Exoplanet Habitability Model
 
 A one-class variational autoencoder for identifying potentially habitable exoplanets that do not resemble Earth.
